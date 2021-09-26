@@ -1,15 +1,24 @@
 {
   "name": "websocket-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple websocket server for testing purposes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "mrhotmadm",
   "license": "ISC",
   "dependencies": {
     "ws": "^8.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhotmadm/websocket-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrhotmadm/websocket-server/issues"
+  },
+  "homepage": "https://github.com/mrhotmadm/websocket-server#readme"
 }
